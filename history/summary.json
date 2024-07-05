@@ -22,19 +22,19 @@
     "url": "https://httpbin.ghost.shutthegoatup.com/status/200",
     "icon": "https://icons.duckduckgo.com/ip3/httpbin.ghost.shutthegoatup.com.ico",
     "slug": "ghost",
-    "status": "down",
-    "uptime": "0.50%",
-    "uptimeDay": "0.50%",
-    "uptimeWeek": "0.50%",
-    "uptimeMonth": "0.50%",
-    "uptimeYear": "0.50%",
-    "time": 387,
-    "timeDay": 387,
-    "timeWeek": 387,
-    "timeMonth": 387,
-    "timeYear": 387,
+    "status": "up",
+    "uptime": "80.25%",
+    "uptimeDay": "80.25%",
+    "uptimeWeek": "80.25%",
+    "uptimeMonth": "80.25%",
+    "uptimeYear": "80.25%",
+    "time": 398,
+    "timeDay": 398,
+    "timeWeek": 398,
+    "timeMonth": 398,
+    "timeYear": 398,
     "dailyMinutesDown": {
-      "2024-07-05": 1
+      "2024-07-05": 3
     }
   }
 ]
