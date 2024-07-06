@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 375,
-    "timeDay": 375,
-    "timeWeek": 375,
-    "timeMonth": 375,
-    "timeYear": 375,
+    "time": 385,
+    "timeDay": 385,
+    "timeWeek": 385,
+    "timeMonth": 385,
+    "timeYear": 385,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/httpbin.ghost.shutthegoatup.com.ico",
     "slug": "ghost",
     "status": "up",
-    "uptime": "80.25%",
-    "uptimeDay": "80.25%",
-    "uptimeWeek": "80.25%",
-    "uptimeMonth": "80.25%",
-    "uptimeYear": "80.25%",
-    "time": 398,
-    "timeDay": 398,
-    "timeWeek": 398,
-    "timeMonth": 398,
-    "timeYear": 398,
-    "dailyMinutesDown": {
-      "2024-07-05": 3
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 388,
+    "timeDay": 388,
+    "timeWeek": 388,
+    "timeMonth": 388,
+    "timeYear": 388,
+    "dailyMinutesDown": {}
   }
 ]
