@@ -4,7 +4,7 @@
     "url": "https://httpbin.bandit.shutthegoatup.com/status/200",
     "icon": "https://icons.duckduckgo.com/ip3/httpbin.bandit.shutthegoatup.com.ico",
     "slug": "bandit",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 409,
     "timeMonth": 409,
     "timeYear": 409,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-10": 0
+    }
   },
   {
     "name": "Ghost",
