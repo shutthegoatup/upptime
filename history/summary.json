@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/httpbin.bandit.shutthegoatup.com.ico",
     "slug": "bandit",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 403,
-    "timeDay": 545,
-    "timeWeek": 381,
-    "timeMonth": 403,
-    "timeYear": 403,
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 400,
+    "timeDay": 349,
+    "timeWeek": 374,
+    "timeMonth": 400,
+    "timeYear": 400,
     "dailyMinutesDown": {
       "2024-07-10": 29
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 412,
-    "timeDay": 522,
-    "timeWeek": 384,
-    "timeMonth": 412,
-    "timeYear": 412,
+    "time": 409,
+    "timeDay": 351,
+    "timeWeek": 381,
+    "timeMonth": 409,
+    "timeYear": 409,
     "dailyMinutesDown": {}
   }
 ]
