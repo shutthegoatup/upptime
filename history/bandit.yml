@@ -1,7 +1,7 @@
 url: https://httpbin.bandit.shutthegoatup.com/status/200
 status: down
 code: 504
-responseTime: 15360
-lastUpdated: 2024-08-26T23:05:35.301Z
+responseTime: 15413
+lastUpdated: 2024-08-27T23:05:55.247Z
 startTime: 2024-07-05T08:16:01.001Z
 generator: Upptime <https://github.com/upptime/upptime>
