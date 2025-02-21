@@ -1,7 +1,7 @@
 url: https://httpbin.bandit.shutthegoatup.com/status/200
-status: up
-code: 200
-responseTime: 569
-lastUpdated: 2025-02-21T08:29:46.528Z
+status: down
+code: 504
+responseTime: 15420
+lastUpdated: 2025-02-21T08:40:46.689Z
 startTime: 2024-07-05T08:16:01.001Z
 generator: Upptime <https://github.com/upptime/upptime>
