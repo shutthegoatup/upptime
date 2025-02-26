@@ -1,7 +1,7 @@
 url: https://httpbin.ghost.shutthegoatup.com/status/200
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-26T11:22:46.426Z
+status: up
+code: 200
+responseTime: 452
+lastUpdated: 2025-02-26T12:06:37.380Z
 startTime: 2024-07-05T08:16:01.607Z
 generator: Upptime <https://github.com/upptime/upptime>
